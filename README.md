@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<h1 align="center">Hi 👋, I'm Kronton</h1>
+<h1 align="center">Hi 👋, I'm Ashis</h1>
 
 <h3 align="center">A small Developer.Computer science student..</h3>
 
